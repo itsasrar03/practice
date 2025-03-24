@@ -1,0 +1,20 @@
+*{
+    
+    background-color:#626F47 ;
+
+}
+h1{
+     color:#FFCF50 ;
+}
+input{
+    background-color: #fff;
+}
+
+
+textarea{
+    background-color: #fff;
+}
+.grey{
+    background-color: grey;
+    color: #fff;
+}
